@@ -15,7 +15,7 @@ Education
 ======
 
 <p>University of Southern California 2017-2021 CS, Bachelor of Science <br>
-University of Southern California 2021-2023 DS, Bachelor of Science </p>
+University of Southern California 2021-2023 DS, Master of Science </p>
 
 Research Experience
 ======
